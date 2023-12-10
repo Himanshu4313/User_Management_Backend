@@ -8,7 +8,8 @@
 ```
 ### How i create this application 
     
-   1. Fist we create a `npm package ` using this command
+   1. Fist we create a `npm package ` using this command.
+   
     ```
       npm init -y
 
