@@ -9,9 +9,10 @@
 ### How i create this application 
     
    1. Fist we create a `npm package ` using this command
+
     ```
       npm init -y
-      
+
     ```
    2. Second we install all dependencies that we required for developing this appliaction , install  all dependencies using this command 
 
